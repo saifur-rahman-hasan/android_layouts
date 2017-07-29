@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "89166325706",
+    "firebase_url": "https://adda-1fd9d.firebaseio.com",
+    "project_id": "adda-1fd9d",
+    "storage_bucket": "adda-1fd9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89166325706:android:6fde9a9c346de589",
+        "android_client_info": {
+          "package_name": "com.hasan.adda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89166325706-9cgl6pkoksdqt3d0clp7cjpes699roka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hasan.adda",
+            "certificate_hash": "9dd69bafaf22de70d84493eb065f87ce1f0c7f4e"
+          }
+        },
+        {
+          "client_id": "89166325706-9fm2iopbla2u244fakqln22c9u1ljue0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb-KxW2RQ-LDjyLn2qreAn_bQCu_gzbBg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89166325706-9fm2iopbla2u244fakqln22c9u1ljue0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

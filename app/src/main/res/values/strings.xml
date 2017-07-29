@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Adda</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login">Log In</string>
+    <string name="create_new_account">Create new Account</string>
+    <string name="register_now">Register now</string>
+</resources>

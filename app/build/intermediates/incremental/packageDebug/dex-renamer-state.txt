@@ -1,0 +1,7 @@
+#Sat Jul 29 20:39:47 BDT 2017
+base.0=E\:\\android_apps\\Adda\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_de4f1eac7d64a6d06fdd671a8eb16fa8578dd066
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\android_apps\\Adda\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_140020a191687b67ef679a12927359b1c9a305d2\\classes.dex
+base.1=E\:\\android_apps\\Adda\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_140020a191687b67ef679a12927359b1c9a305d2
+file.0=E\:\\android_apps\\Adda\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_de4f1eac7d64a6d06fdd671a8eb16fa8578dd066\\classes.dex
